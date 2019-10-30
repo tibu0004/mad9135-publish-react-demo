@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mad9135-publish-react-demo/static/css/main.34de6062.chunk.css",
+    "main.js": "/mad9135-publish-react-demo/static/js/main.60915f90.chunk.js",
+    "main.js.map": "/mad9135-publish-react-demo/static/js/main.60915f90.chunk.js.map",
+    "runtime-main.js": "/mad9135-publish-react-demo/static/js/runtime-main.e2cdb6e0.js",
+    "runtime-main.js.map": "/mad9135-publish-react-demo/static/js/runtime-main.e2cdb6e0.js.map",
+    "static/js/2.d075b9b6.chunk.js": "/mad9135-publish-react-demo/static/js/2.d075b9b6.chunk.js",
+    "static/js/2.d075b9b6.chunk.js.map": "/mad9135-publish-react-demo/static/js/2.d075b9b6.chunk.js.map",
+    "index.html": "/mad9135-publish-react-demo/index.html",
+    "precache-manifest.7475dcedd442b0c59d895154626f1e0f.js": "/mad9135-publish-react-demo/precache-manifest.7475dcedd442b0c59d895154626f1e0f.js",
+    "service-worker.js": "/mad9135-publish-react-demo/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/mad9135-publish-react-demo/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2cdb6e0.js",
+    "static/js/2.d075b9b6.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.60915f90.chunk.js"
+  ]
+}
